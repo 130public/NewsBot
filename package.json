@@ -1,0 +1,19 @@
+{
+  "name": "news_bot",
+  "version": "1.0.0",
+  "description": "A nodej bot  that parses and queries an RSS feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "feedme": "^1.0.0",
+    "feedparser": "^2.1.0",
+    "restify": "^4.3.0",
+    "rss-parser": "^2.6.1",
+    "xml2js": "^0.4.17"
+  }
+}
